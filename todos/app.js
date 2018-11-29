@@ -20,23 +20,10 @@ const todos = ['Code a todo app'];
 
 document.addEventListener("DOMContentLoaded", function(event) {
     console.log('App running...')
-    todos.forEach((todo, index) => renderTodo(todo, index));
 
-    const form = document.querySelector('form');
-    form.addEventListener('submit', (event) => {
-      event.preventDefault();
-      const todo = form.querySelector('#newitem').value;
-      if (todo != '') {
-        form.reset();
-        todos.push(todo);
-        renderTodo(todo);
-        addDeleteEvent(document.querySelector('#todos ul').firstChild);
-      }
-    });
+    // TODO: Render items in todos array
 
-    const todoItems = document.querySelectorAll('#todos ul li');
-    todoItems.forEach((item) => {
-      const deleteButton = item.querySelector('button');
-      deleteButton.addEventListener('click', (event) => deleteTodo(event.target.id));
-    })
+    // TODO: Add new todos with the form
+
+    // TODO: Delete todos
 });
