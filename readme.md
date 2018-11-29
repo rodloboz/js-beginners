@@ -7,7 +7,9 @@
 
 ## Setup
 
-Install Sublime Text 👉 https://www.sublimetext.com/
+- Install Sublime Text 👉 https://www.sublimetext.com/
+- Download the Workshop Zip file 👉 https://github.com/rodloboz/js-beginners/archive/master.zip
+- Unzip the project in your computer
 
 ## Exercise 1
 
