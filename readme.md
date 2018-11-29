@@ -1,9 +1,9 @@
 # JavaScript for Beginners
 1. [Setup](#setup)
-2. [Exercise 1](#exercise1)
-3. [Exercise 2](#exercise2)
-4. [Exercise 3](#exercise3)
-5. [Exercise 4](#exercise4)
+2. [Exercise 1](#exercise-1)
+3. [Exercise 2](#exercise-2)
+4. [Exercise 3](#exercise-3)
+5. [Exercise 4](#exercise-4)
 
 ## Setup
 
